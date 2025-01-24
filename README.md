@@ -8,8 +8,8 @@ Fully modifiable character sheets with:
 * Support for custom stats
 * Skills
 * Dice modifiers
-* Complex job abilities: Weighted Dice, Miracle and Nomad State
-* Specialty class abilities: Burning Blade, Burning Blood, Sky Passage, Beatdown
+* Automated job abilities: Weighted Dice, Miracle and Nomad State
+* Automated specialty class abilities: Burning Blade, Burning Blood, Sky Passage, Beatdown
 * Optional Expertise demo rule
 * Optional Inspiration homebrew rule
   
