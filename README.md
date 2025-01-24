@@ -1,6 +1,8 @@
 # Tales From Myriad - Custom Sheet Builder
 Character sheets, items, rolltables, macros and the sample bestiary for Tales from Myriad by Carson Daniel. Requires Custom Sheet Builder: https://foundryvtt.com/packages/custom-system-builder/
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V519H7LL)
+
 ## Features
 
 ### Character Sheets
@@ -41,5 +43,12 @@ Contains all of the entries from Myriad's Sample Bestiary, complete with their l
 * Character sheets may need to be refreshed multiple times on initial creation, which should fix errors on labels across the sheet
 * Players may need to click *Normal* on their Advantage section to fix core rolls on new character creation
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V519H7LL)
+# Manual Installation
+* Open foundry and head to Game Systems -> Install System and grab `Custom System Builder` by LinkedFluuuush
+* (optional but very cool) head to Add-on Modules and grab `Dice So Nice`
+* Head to [Releases](https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/releases) page and download the latest everything-myriad
+* Unzip it into your `AppData/Local/FoundryVTT/Data/modules` folder
+* Create a world using the Custom System Builder system, 
+* In the world, head to Settings in the top right -> Manage Modules and turn on the downloaded module
+* Reset the world and the content should appear in your Compendium, where you can import the adventure and go crazy
 
