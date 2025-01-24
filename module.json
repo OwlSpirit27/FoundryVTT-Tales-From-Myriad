@@ -1,0 +1,46 @@
+{
+  "id": "everything-myriad",
+  "title": "Tales From Myriad - Custom System Builder",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Character sheets, items, rolltables, macros and the Sample Bestiary for Tales from Myriad by Daniel Carson",
+  "authors": [
+    {
+      "name": "Owle",
+      "discord": "Owle",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "everything-myriad",
+      "label": "Everything Myriad",
+      "path": "packs/everything-myriad",
+      "type": "Adventure",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
