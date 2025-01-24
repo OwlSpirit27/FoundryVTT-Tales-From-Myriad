@@ -40,5 +40,8 @@ Macros that prompt players for their LCK modifier before rolling on the desired 
 ### Sample Bestiary
 Contains all of the entries from Myriad's Sample Bestiary, complete with their loot as items.
 
+![image](https://github.com/user-attachments/assets/5667b838-6bdc-47ac-b90e-e79c4a0031ec)
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V519H7LL)
 
