@@ -12,12 +12,20 @@ Fully modifiable character sheets with:
 * Specialty class abilities: Burning Blade, Burning Blood, Sky Passage, Beatdown
 * Optional Expertise demo rule
 * Optional Inspiration homebrew rule
+![Character Sheets](https://github.com/user-attachments/assets/a1b43241-3b03-48e8-9797-ddecb86deafe)
+
 
 ### Everything is Itemised
 Contains everything you need to speedrun setup, including curses, magic items, banes, boons, job abilities, specialty class abilities, consumables, starting gear, instruments, armor, weapons and spells
 
+![Character Abilities](https://github.com/user-attachments/assets/9da1d50c-d96c-4743-94f2-dbb9a8d63350)
+
+
 ### Rolltables
 Player rolltables covering all of character creation, GM rolltables for dungeon generation, encounters, loot, exploration, travel, stores, urban exploration and magic item generation
+
+![Rolltables](https://github.com/user-attachments/assets/b3006df7-e621-4e66-8fad-295365d31e27)
+
 
 ### Luck-based Macros
 Macros that prompt players for their LCK modifier before rolling on the desired roll tables: Miscasts, magic item generation and Camp Encounters
