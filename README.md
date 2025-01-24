@@ -44,7 +44,7 @@ Contains all of the entries from Myriad's Sample Bestiary, complete with their l
 * Players may need to click *Normal* on their Advantage section to fix core rolls on new character creation
 
 # Manual Installation
-* Open foundry and head to Game Systems -> Install System and grab `Custom System Builder` by LinkedFluuuush
+* Open FoundryVTT and head to Game Systems -> Install System and grab `Custom System Builder` by LinkedFluuuush
 * (optional but very cool) head to Add-on Modules and grab `Dice So Nice`
 * Head to [Releases](https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/releases) page and download the latest everything-myriad
 * Unzip it into your `AppData/Local/FoundryVTT/Data/modules` folder
