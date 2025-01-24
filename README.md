@@ -22,6 +22,11 @@ Player rolltables covering all of character creation, GM rolltables for dungeon 
 ### Luck-based Macros
 Macros that prompt players for their LCK modifier before rolling on the desired roll tables: Miscasts, magic item generation and Camp Encounters
 
+## Known Bugs (and how to bypass them)
+* Character sheets may need to be refreshed multiple times on initial creation, which should fix errors on labels across the sheet
+* Players may need to click *Normal* on their Advantage section to fix core rolls on new character creation
+
+
 ### Sample Bestiary
 Contains all of the entries from Myriad's Sample Bestiary, complete with their loot as items.
 
