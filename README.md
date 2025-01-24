@@ -48,7 +48,7 @@ Contains all of the entries from Myriad's Sample Bestiary, complete with their l
 * (optional but very cool) head to Add-on Modules and grab `Dice So Nice`
 * Head to [Releases](https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/releases) page and download the latest everything-myriad
 * Unzip it into your `AppData/Local/FoundryVTT/Data/modules` folder
-* Create a world using the Custom System Builder system, 
+* Create a world using the Custom System Builder system
 * In the world, head to Settings in the top right -> Manage Modules and turn on the downloaded module
 * Reset the world and the content should appear in your Compendium, where you can import the adventure and go crazy
 
