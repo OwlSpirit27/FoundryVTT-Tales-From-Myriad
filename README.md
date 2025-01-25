@@ -42,6 +42,7 @@ Contains all of the entries from Myriad's Sample Bestiary, complete with their l
 ## Known Bugs (and how to bypass them)
 * Character sheets may need to be refreshed multiple times on initial creation, which should fix errors on labels across the sheet
 * Players may need to click *Normal* on their Advantage section to fix core rolls on new character creation
+* On first import, you'll be spammed by warnings that item templates have been deleted. The sheets still function, and resetting Foundry seems to stop the errors. 
 
 # Manual Installation
 * Open FoundryVTT and head to Game Systems -> Install System and grab `Custom System Builder` by LinkedFluuuush
