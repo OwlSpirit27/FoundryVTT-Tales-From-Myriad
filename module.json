@@ -1,7 +1,7 @@
 {
   "id": "everything-myriad",
   "title": "Tales From Myriad - Custom System Builder",
-  "version": "1.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
