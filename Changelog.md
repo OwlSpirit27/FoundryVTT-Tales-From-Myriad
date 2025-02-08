@@ -9,6 +9,7 @@
 * Fixes manual explodes rolling multiple dice if the respective weapon has multiple damage dice
 * Alters how advantage works in NPC sheets
 * Improves formatting of NPC sheets
+* Adds custom HP formula
 
 ## 1.0.1
 * Fixes broken core rolls
