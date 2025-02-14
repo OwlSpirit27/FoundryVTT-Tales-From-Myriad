@@ -3,13 +3,17 @@
 * Adds ShowDescriptionInDamage to weapons
 * Improves formatting on stat checks, attacks and damages
 * Improves formatting on spell checks and adds easy access to miscasts
-* Improves miscast macro dialogue window
+* Improves  and streamlines miscast macro and camp encounter macro dialogue window
 * Fixes raw spell check rolls not working
-* Secondary damage never displays if it is not enabled
+* Secondary damage never displays on-sheet if it is not enabled
 * Fixes manual explodes rolling multiple dice if the respective weapon has multiple damage dice
 * Alters how advantage works in NPC sheets
 * Improves formatting of NPC sheets
 * Adds custom HP formula
+* Fixes normal dice rolls sometimes not rolling until an advantage type is selected
+* Fixes wrong roll formula when using the Camp Encounter macro
+* Updates CSB to 4.3.2
+* Changes default NPC icon
 
 ## 1.0.1
 * Fixes broken core rolls
