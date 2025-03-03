@@ -1,3 +1,8 @@
+## 1.0.3
+* Fixes hunter ability sources (they are no longer Scholar abilities)
+* Fixes Thief abilities multiplying inventory slots
+* Fixes ammo not updating correctly when a ranged weapon is used
+
 ## 1.0.2
 * Hard to Kill correctly updates Last Breath
 * Adds ShowDescriptionInDamage to weapons
