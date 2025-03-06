@@ -2,6 +2,9 @@
 * Fixes hunter ability sources (they are no longer Scholar abilities)
 * Fixes Thief abilities multiplying inventory slots
 * Fixes ammo not updating correctly when a ranged weapon is used
+* Fixes damage modifiers not affecting damage rolls
+* Better clarity on main tabbed panel
+* Adds ability to append item text to damage rolls
 
 ## 1.0.2
 * Hard to Kill correctly updates Last Breath
@@ -17,7 +20,6 @@
 * Adds custom HP formula
 * Fixes normal dice rolls sometimes not rolling until an advantage type is selected
 * Fixes wrong roll formula when using the Camp Encounter macro
-* Updates CSB to 4.3.2
 * Changes default NPC icon
 
 ## 1.0.1
