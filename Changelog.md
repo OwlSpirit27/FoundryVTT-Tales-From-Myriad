@@ -1,3 +1,13 @@
+## 1.0.4 (Unreleased)
+* Prevents extra plus symbols appearing on stats with temp modifiers
+* Prevents description icons from appearing on items without descriptions
+* Adds broken icon to broken items
+* Removes annoying tutorial tooltips on spells, weapons and abilities
+* Streamlines inventory and equipped items
+* Makes attack table clearer
+* Fixes some settings tooltips
+* Improvements to sheet clarity
+
 ## 1.0.3
 * Fixes hunter ability sources (they are no longer Scholar abilities)
 * Fixes Thief abilities multiplying inventory slots
