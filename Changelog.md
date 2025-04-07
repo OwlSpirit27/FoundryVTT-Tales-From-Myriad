@@ -7,6 +7,9 @@
 * Makes attack table clearer
 * Fixes some settings tooltips
 * Improvements to sheet clarity
+* Improvements to weapon sheet clarity
+* Starting heavy weapons are now defaulted to 2 slots instead of 1
+* Adds blank weapon templates for ranged and melee weapons, large/medium/small
 
 ## 1.0.3
 * Fixes hunter ability sources (they are no longer Scholar abilities)
