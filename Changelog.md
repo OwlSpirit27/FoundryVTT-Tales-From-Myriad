@@ -12,6 +12,7 @@
 * Adds blank weapon templates for ranged and melee weapons, large/medium/small
 * Fixes alt damage dice displaying non-alt damage dice
 * Fixes HP breaking if it ever becomes a decimal number
+* Potion Belt item now properly increases maximum slots by 3
 
 ## 1.0.3
 * Fixes hunter ability sources (they are no longer Scholar abilities)
