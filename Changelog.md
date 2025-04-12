@@ -10,6 +10,8 @@
 * Improvements to weapon sheet clarity
 * Starting heavy weapons are now defaulted to 2 slots instead of 1
 * Adds blank weapon templates for ranged and melee weapons, large/medium/small
+* Fixes alt damage dice displaying non-alt damage dice
+* Fixes HP breaking if it ever becomes a decimal number
 
 ## 1.0.3
 * Fixes hunter ability sources (they are no longer Scholar abilities)
