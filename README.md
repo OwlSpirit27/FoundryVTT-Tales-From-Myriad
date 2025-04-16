@@ -14,8 +14,8 @@ Fully modifiable character sheets with:
 * Automated specialty class abilities: Burning Blade, Burning Blood, Sky Passage, Beatdown
 * Optional Expertise demo rule
 * Optional Inspiration homebrew rule
-  
-![Character Sheets](https://github.com/user-attachments/assets/9da1d50c-d96c-4743-94f2-dbb9a8d63350)
+
+![Character Sheets](https://github.com/user-attachments/assets/8acaa045-c56e-4ad1-b4a3-d1eee8e2055f)
 
 
 ### Everything is Itemised
