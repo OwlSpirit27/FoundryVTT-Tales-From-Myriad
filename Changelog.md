@@ -1,4 +1,4 @@
-## 1.0.4 (Unreleased)
+## 1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
 * Prevents description icons from appearing on items without descriptions
 * Adds broken icon to broken items
