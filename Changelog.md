@@ -1,4 +1,4 @@
-## 1.0.4
+## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
 * Prevents description icons from appearing on items without descriptions
 * Adds broken icon to broken items
@@ -15,7 +15,7 @@
 * Potion Belt item now properly increases maximum slots by 3
 * Displays Corruption effects and automates Corruption stats
 
-## 1.0.3
+## v1.0.3
 * Fixes hunter ability sources (they are no longer Scholar abilities)
 * Fixes Thief abilities multiplying inventory slots
 * Fixes ammo not updating correctly when a ranged weapon is used
@@ -23,7 +23,7 @@
 * Better clarity on main tabbed panel
 * Adds ability to append item text to damage rolls
 
-## 1.0.2
+## v1.0.2
 * Hard to Kill correctly updates Last Breath
 * Adds ShowDescriptionInDamage to weapons
 * Improves formatting on stat checks, attacks and damages
@@ -39,12 +39,12 @@
 * Fixes wrong roll formula when using the Camp Encounter macro
 * Changes default NPC icon
 
-## 1.0.1
+## v1.0.1
 * Fixes broken core rolls
 * Fixes broken tokens and mismatching names in sample bestiary
 * Fixes typos in character creation help
 * Adds Starting Gear rolltable (included in character creation help)
 * Alters info section on NPC sheets
 
-## 1.0.0
+## v1.0.0
 * Initial Commit
