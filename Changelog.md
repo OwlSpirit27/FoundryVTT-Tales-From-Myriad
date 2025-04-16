@@ -13,6 +13,7 @@
 * Fixes alt damage dice displaying non-alt damage dice
 * Fixes HP breaking if it ever becomes a decimal number
 * Potion Belt item now properly increases maximum slots by 3
+* Displays Corruption effects and automates Corruption stats
 
 ## 1.0.3
 * Fixes hunter ability sources (they are no longer Scholar abilities)
