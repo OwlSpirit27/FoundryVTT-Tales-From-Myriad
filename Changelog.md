@@ -1,3 +1,12 @@
+## v1.1.0 (Unreleased)
+* Overhauled and itemised modifiers
+* Added base modifiers: Prone Target, Crit Stunt, Dual Wield and Stunned Target
+* Added new modifiers for existing job and specialty class abilities, which replace base sheet functions (such as Burning Blood and Knife in the Dark)
+* Added CSB sheet tutorial to the Character Creation document
+* Adds camping tracker scene
+* Adds default scenes without lighting for easy duplicating
+* Updates character sheet modifiers document
+
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
 * Prevents description icons from appearing on items without descriptions
