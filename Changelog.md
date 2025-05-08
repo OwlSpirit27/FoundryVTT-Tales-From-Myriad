@@ -7,7 +7,7 @@
 * Adds default scenes without lighting for easy duplicating
 * Updates character sheet modifiers document
 * Updates all luck-based macros to have 0 as their default value
-* GMs may now see from character sheets if a displayed item exists in the world
+* GMs may now see from character sheets if a displayed item exists in the world, and can open the item's template from a character sheet
 
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
