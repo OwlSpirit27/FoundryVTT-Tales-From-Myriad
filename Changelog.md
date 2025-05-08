@@ -9,6 +9,7 @@
 * Updates all luck-based macros to have 0 as their default value
 * Differently coloured dice for damage types when used with Dice So Nice
 * Damage rolling buttons on attack rolls
+* Fixes computing errors in inventory
 
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
