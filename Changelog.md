@@ -7,9 +7,9 @@
 * Adds default scenes without lighting for easy duplicating
 * Updates character sheet modifiers document
 * Updates all luck-based macros to have 0 as their default value
-* Differently coloured dice for damage types when used with Dice So Nice
-* Damage rolling buttons on attack rolls
+* Differently coloured dice for damage types on attacks, spells and items when used with Dice So Nice
 * Fixes computing errors in inventory
+* Improves ammo tracking and simplifies attack window when weapon does not use ammo
 
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
