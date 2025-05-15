@@ -10,6 +10,8 @@
 * Differently coloured dice for damage types on attacks, spells and items when used with Dice So Nice
 * Fixes computing errors in inventory
 * Improves ammo tracking and simplifies attack window when weapon does not use ammo
+* Ammunition automatically takes up slots depending on the size of the ammunition
+* Inventory slots now work rules as written (small items can now stack up to 10, but always count as taking up 1 inventory slot)
 
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
