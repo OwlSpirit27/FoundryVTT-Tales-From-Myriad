@@ -4,6 +4,7 @@
 * Added new modifiers for existing job and specialty class abilities, which replace base sheet functions (such as Burning Blood and Knife in the Dark)
 * Added CSB sheet tutorial to the Character Creation document
 * Adds camping tracker scene
+* Adds urban exploration template
 * Adds default scenes without lighting for easy duplicating
 * Updates character sheet modifiers document
 * Updates all luck-based macros to have 0 as their default value
