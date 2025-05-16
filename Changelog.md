@@ -1,8 +1,20 @@
 ## v1.1.0 (Unreleased)
 * Overhauled and itemised modifiers
 * Added base modifiers: Prone Target, Crit Stunt, Dual Wield and Stunned Target
-* Added new modifiers for existing job and specialty class abilities, which replace base sheet functions (such as Burning Blood and Knife in the Dark)
-* Added CSB sheet tutorial to the Character Creation document
+* Added new modifiers for existing job and specialty class abilities, which replace base sheet functions:
+  * Beatdown
+  * Blood on the Blade
+  * Burning Blood
+  * Dramatic Entrance
+  * Juggler
+  * Knife in the Dark
+  * Lunge
+  * Otherworldly Occulsion
+  * Silverstep
+  * Solo
+  * Suckerpunch
+* Adds resource tracking to modifiers
+* Adds CSB sheet tutorial to the Character Creation document
 * Adds camping tracker scene
 * Adds urban exploration template
 * Adds default scenes without lighting for easy duplicating
