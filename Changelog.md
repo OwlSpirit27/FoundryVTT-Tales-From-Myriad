@@ -1,19 +1,32 @@
 ## v1.1.0 (Unreleased)
-* Overhauled and itemised modifiers
+* Overhauled and itemised modifiers, which double as resource trackers
 * Added base modifiers: Prone Target, Crit Stunt, Dual Wield and Stunned Target
-* Added new modifiers for existing job and specialty class abilities, which replace base sheet functions:
+* Added new modifiers for existing job and specialty class abilities, which may replace base sheet functionality:
   * Beatdown
   * Blood on the Blade
+  * Bloodthirst
   * Burning Blood
+  * Called Shot
+  * Cold Cut
   * Dramatic Entrance
-  * Juggler
+  * Fateweave (Disables automatic exploding)
+  * Fireworks
+  * Flambé
   * Knife in the Dark
+  * Lance of the Forest
   * Lunge
+  * Miracle (Disables automatic exploding)
   * Otherworldly Occulsion
+  * Painful Memory
+  * Patience
+  * Scattershot
   * Silverstep
   * Solo
+  * Strike First
   * Suckerpunch
-* Adds resource tracking to modifiers
+* Adds unarmed strikes to Nomad's Self Preservation
+* Traveller's Fortitude now correctly alters Last Breath
+* Burning Blood increases maximum HP
 * Adds CSB sheet tutorial to the Character Creation document
 * Adds camping tracker scene
 * Adds urban exploration template
@@ -25,6 +38,8 @@
 * Improves ammo tracking and simplifies attack window when weapon does not use ammo
 * Ammunition automatically takes up slots depending on the size of the ammunition
 * Inventory slots now work rules as written (small items can now stack up to 10, but always count as taking up 1 inventory slot)
+* Fixes AppendToDamage not working on secondary damage rolls
+* Fixes damage and damage die size changes not reflecting on secondary damage buttons
 
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
