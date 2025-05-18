@@ -1,14 +1,43 @@
-2025/04/16-12:40:21.215 38bc Recovering log #457
-2025/04/16-12:40:21.230 38bc Delete type=0 #457
-2025/04/16-12:40:21.230 38bc Delete type=3 #456
-2025/04/16-13:52:33.059 1be8 Level-0 table #461: started
-2025/04/16-13:52:33.224 1be8 Level-0 table #461: 2928229 bytes OK
-2025/04/16-13:52:33.230 1be8 Delete type=0 #459
-2025/04/16-13:52:33.341 1be8 Manual compaction at level-0 from '!adventures!FAITezNHjBODLisr' @ 72057594037927935 : 1 .. '!adventures!FAITezNHjBODLisr' @ 0 : 0; will stop at '!adventures!WmCzZ6npaix7wiJa' @ 44 : 0
-2025/04/16-13:52:33.341 1be8 Compacting 1@0 + 1@1 files
-2025/04/16-13:52:33.523 1be8 Generated table #462@0: 1 keys, 2928131 bytes
-2025/04/16-13:52:33.524 1be8 Compacted 1@0 + 1@1 files => 2928131 bytes
-2025/04/16-13:52:33.527 1be8 compacted to: files[ 0 2 1 0 0 0 0 ]
-2025/04/16-13:52:33.527 1be8 Delete type=2 #453
-2025/04/16-13:52:33.528 1be8 Delete type=2 #461
-2025/04/16-13:52:33.529 1be8 Manual compaction at level-0 from '!adventures!WmCzZ6npaix7wiJa' @ 44 : 0 .. '!adventures!FAITezNHjBODLisr' @ 0 : 0; will stop at (end)
+2025/05/18-12:29:49.634 3070 Recovering log #601
+2025/05/18-12:29:49.647 3070 Delete type=0 #601
+2025/05/18-12:29:49.648 3070 Delete type=3 #600
+2025/05/18-13:38:28.501 19a8 Level-0 table #605: started
+2025/05/18-13:38:28.683 19a8 Level-0 table #605: 2856176 bytes OK
+2025/05/18-13:38:28.691 19a8 Delete type=0 #603
+2025/05/18-13:38:33.448 19a8 Level-0 table #607: started
+2025/05/18-13:38:33.717 19a8 Level-0 table #607: 8731405 bytes OK
+2025/05/18-13:38:33.722 19a8 Delete type=0 #604
+2025/05/18-13:39:04.593 19a8 Level-0 table #609: started
+2025/05/18-13:39:04.765 19a8 Level-0 table #609: 2866496 bytes OK
+2025/05/18-13:39:04.768 19a8 Delete type=0 #606
+2025/05/18-13:44:06.330 19a8 Compacting 1@0 + 1@1 files
+2025/05/18-13:44:06.511 19a8 Generated table #610@0: 1 keys, 2866496 bytes
+2025/05/18-13:44:06.706 19a8 Generated table #611@0: 1 keys, 2856729 bytes
+2025/05/18-13:44:06.871 19a8 Generated table #612@0: 1 keys, 3008414 bytes
+2025/05/18-13:44:06.871 19a8 Compacted 1@0 + 1@1 files => 8731639 bytes
+2025/05/18-13:44:06.873 19a8 compacted to: files[ 0 4 4 0 0 0 0 ]
+2025/05/18-13:44:07.732 19a8 Level-0 table #614: started
+2025/05/18-13:44:07.747 19a8 Level-0 table #614: 229 bytes OK
+2025/05/18-13:44:07.750 19a8 Delete type=2 #607
+2025/05/18-13:44:07.751 19a8 Delete type=0 #608
+2025/05/18-13:44:07.751 19a8 Delete type=2 #609
+2025/05/18-13:44:07.752 19a8 Manual compaction at level-0 from '!adventures!YduLNg2XZXhUtZy0' @ 72057594037927935 : 1 .. '!adventures!YduLNg2XZXhUtZy0' @ 0 : 0; will stop at '!adventures!giiocT68xUx0fyFt' @ 55 : 0
+2025/05/18-13:44:07.752 19a8 Compacting 1@0 + 3@1 files
+2025/05/18-13:44:07.965 19a8 Generated table #615@0: 2 keys, 2856625 bytes
+2025/05/18-13:44:07.991 19a8 Generated table #616@0: 1 keys, 202 bytes
+2025/05/18-13:44:07.991 19a8 Compacted 1@0 + 3@1 files => 2856827 bytes
+2025/05/18-13:44:07.994 19a8 compacted to: files[ 0 3 4 0 0 0 0 ]
+2025/05/18-13:44:07.994 19a8 Delete type=2 #610
+2025/05/18-13:44:07.994 19a8 Delete type=2 #611
+2025/05/18-13:44:07.995 19a8 Delete type=2 #612
+2025/05/18-13:44:07.996 19a8 Delete type=2 #614
+2025/05/18-13:44:07.996 19a8 Manual compaction at level-0 from '!adventures!giiocT68xUx0fyFt' @ 55 : 0 .. '!adventures!YduLNg2XZXhUtZy0' @ 0 : 0; will stop at (end)
+2025/05/18-13:44:07.996 19a8 Manual compaction at level-1 from '!adventures!YduLNg2XZXhUtZy0' @ 72057594037927935 : 1 .. '!adventures!YduLNg2XZXhUtZy0' @ 0 : 0; will stop at '!adventures!YduLNg2XZXhUtZy0' @ 51 : 1
+2025/05/18-13:44:07.996 19a8 Compacting 1@1 + 2@2 files
+2025/05/18-13:44:08.183 19a8 Generated table #617@1: 1 keys, 2856729 bytes
+2025/05/18-13:44:08.185 19a8 Compacted 1@1 + 2@2 files => 2856729 bytes
+2025/05/18-13:44:08.189 19a8 compacted to: files[ 0 2 3 0 0 0 0 ]
+2025/05/18-13:44:08.189 19a8 Delete type=2 #554
+2025/05/18-13:44:08.189 19a8 Delete type=2 #605
+2025/05/18-13:44:08.190 19a8 Delete type=2 #615
+2025/05/18-13:44:08.190 19a8 Manual compaction at level-1 from '!adventures!YduLNg2XZXhUtZy0' @ 51 : 1 .. '!adventures!YduLNg2XZXhUtZy0' @ 0 : 0; will stop at (end)
