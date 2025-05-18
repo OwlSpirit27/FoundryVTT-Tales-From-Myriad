@@ -1,4 +1,4 @@
-## v1.1.0 (Unreleased)
+## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
 * Added base modifiers: Prone Target, Crit Stunt, Dual Wield and Stunned Target
 * Added new modifiers for existing job and specialty class abilities, which may replace base sheet functionality:
