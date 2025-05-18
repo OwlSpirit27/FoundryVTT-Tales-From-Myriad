@@ -2,28 +2,22 @@
 * Overhauled and itemised modifiers, which double as resource trackers
 * Added base modifiers: Prone Target, Crit Stunt, Dual Wield and Stunned Target
 * Added new modifiers for existing job and specialty class abilities, which may replace base sheet functionality:
-  * Beatdown
-  * Blood on the Blade
-  * Bloodthirst
-  * Burning Blood
-  * Called Shot
-  * Cold Cut
-  * Dramatic Entrance
-  * Fateweave (Disables automatic exploding)
-  * Fireworks
-  * Flambé
-  * Knife in the Dark
-  * Lance of the Forest
-  * Lunge
-  * Miracle (Disables automatic exploding)
-  * Otherworldly Occulsion
-  * Painful Memory
-  * Patience
-  * Scattershot
-  * Silverstep
-  * Solo
-  * Strike First
-  * Suckerpunch
+  * Duelist: Lunge
+  * Sage: Miracle (Disables automatic exploding)
+  * Occultist: Otherworldly Occulsion
+  * Nomad: Painful Memory,
+  * Thief: Knife in the Dark
+  * Marauder: Blood on the Blade, Suckerpunch
+  * Performer: Dramatic Entrance, Silverstep, Solo
+
+  * Gladiator: Beatdown, Theatre of Battle
+  * Chaos Knight: Bloodthirst, Burning Blood
+  * Pistoleer: Called Shot, Fireworks, Scattershot
+  * Kitcheneer: Cold Cut, Flambé
+  * Astrologer: Fateweave (Disables automatic exploding)
+  * Rose Knight: Lance of the Forest
+  * Blademaster: Patience, Strike First
+
 * Adds unarmed strikes to Nomad's Self Preservation
 * Traveller's Fortitude now correctly alters Last Breath
 * Burning Blood increases maximum HP
