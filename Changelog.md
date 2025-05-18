@@ -9,7 +9,6 @@
   * Thief: Knife in the Dark
   * Marauder: Blood on the Blade, Suckerpunch
   * Performer: Dramatic Entrance, Silverstep, Solo
-
   * Gladiator: Beatdown, Theatre of Battle
   * Chaos Knight: Bloodthirst, Burning Blood
   * Pistoleer: Called Shot, Fireworks, Scattershot
@@ -20,10 +19,10 @@
 
 * Adds unarmed strikes to Nomad's Self Preservation
 * Traveller's Fortitude now correctly alters Last Breath
-* Burning Blood increases maximum HP
+* Burning Blood now increases maximum HP
 * Adds CSB sheet tutorial to the Character Creation document
 * Adds camping tracker scene
-* Adds urban exploration template
+* Adds urban exploration example
 * Adds default scenes without lighting for easy duplicating
 * Updates character sheet modifiers document
 * Updates all luck-based macros to have 0 as their default value
@@ -34,6 +33,7 @@
 * Inventory slots now work rules as written (small items can now stack up to 10, but always count as taking up 1 inventory slot)
 * Fixes AppendToDamage not working on secondary damage rolls
 * Fixes damage and damage die size changes not reflecting on secondary damage buttons
+* Adds GM screen to landing scene
 
 ## v1.0.4
 * Prevents extra plus symbols appearing on stats with temp modifiers
