@@ -7,6 +7,7 @@
 * Overhauled and itemised modifiers, which double as resource trackers
 * Adds base modifiers: Prone Target, Crit Stunt, Dual Wield and Stunned Target
 * Adds new modifiers for existing job and specialty class abilities, which may replace base sheet functionality:
+-
   * Duelist: Lunge
   * Sage: Miracle (Disables automatic exploding)
   * Occultist: Otherworldly Occulsion
