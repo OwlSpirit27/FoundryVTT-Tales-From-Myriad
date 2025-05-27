@@ -3,6 +3,7 @@
 * Adds ability to change spell and performance critical range
 * Spell, ability and item damages can no longer crit on rolls of 1
 * Adds status effect displayer
+* Adds light radii and duration to light source descriptions
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
