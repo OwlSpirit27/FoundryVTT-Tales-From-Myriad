@@ -2,6 +2,7 @@
 * Fixes Miracle and Fateweave modifiers always disabling explodes, even when the modifier is disabled
 * Adds ability to change spell and performance critical range
 * Spell, ability and item damages can no longer crit on rolls of 1
+* Adds status effect displayer
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
