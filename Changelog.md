@@ -5,6 +5,7 @@
 * Adds status effect displayer
 * Adds light radii and duration to light source descriptions
 * Fixed lots of code formatting
+* Improved some sheet formatting
 * Fixed broken crits on damaged weapon attacks
 
 ## v1.1.0
