@@ -4,6 +4,8 @@
 * Spell, ability and item damages can no longer crit on rolls of 1
 * Adds status effect displayer
 * Adds light radii and duration to light source descriptions
+* Fixed lots of code formatting
+* Fixed broken crits on damaged weapon attacks
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
