@@ -5,9 +5,10 @@
 * Adds status effect displayer
 * Adds light radii and duration to light source descriptions
 * Fixed lots of code formatting
-* Improved some sheet formatting
-* Fixed broken crits on damaged weapon attacks
-* Improved weapon info tooltips
+* Improves some sheet formatting
+* Fixes broken crits on damaged weapon attacks
+* Improves weapon info tooltips
+* Improves spell formatting in sheet
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
