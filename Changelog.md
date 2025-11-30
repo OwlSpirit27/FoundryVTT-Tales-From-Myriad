@@ -7,6 +7,7 @@
 * Fixed lots of code formatting
 * Improved some sheet formatting
 * Fixed broken crits on damaged weapon attacks
+* Improved weapon info tooltips
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
