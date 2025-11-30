@@ -9,6 +9,7 @@
 * Fixes broken crits on damaged weapon attacks
 * Improves weapon info tooltips
 * Improves spell formatting in sheet
+* Adds reset button to Custom HP Formula in case of broken formula
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
