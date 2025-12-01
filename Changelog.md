@@ -1,8 +1,11 @@
-## v1.1.1 (Unreleased)
+## v1.2.0 (Unreleased)
+* Updates to Foundry v13 and CSB 5.0.2
+-
+  * Note: This version is less compatible with Foundry v12 or less, and CSB 4 or less.
 * Fixes Miracle and Fateweave modifiers always disabling explodes, even when the modifier is disabled
 * Adds ability to change spell and performance critical range
 * Spell, ability and item damages can no longer crit on rolls of 1
-* Adds status effect displayer
+* Adds active effect displayer
 * Adds light radii and duration to light source descriptions
 * Fixed lots of code formatting
 * Improves some sheet formatting
@@ -10,6 +13,7 @@
 * Improves weapon info tooltips
 * Improves spell formatting in sheet
 * Adds reset button to Custom HP Formula in case of broken formula
+* Adds active effect displayers to all sheets (for future conversion from modifiers to active effects)
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
