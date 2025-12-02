@@ -13,7 +13,10 @@
 * Improves weapon info tooltips
 * Improves spell formatting in sheet
 * Adds reset button to Custom HP Formula in case of broken formula
-* Adds active effect displayers to all sheets (for future conversion from modifiers to active effects)
+* Converts most modifiers to active effects attached to abilities
+  * Modifiers that still rely on resources will still be tracked in Modifiers instead of the Active Effect displayers
+* Adds base modifiers (crit stunt, prone target, etc.) to template sheet
+* Converts Sky Passage and Burning Blood into active effects
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
