@@ -1,6 +1,5 @@
 ## v1.2.0 (Unreleased)
 * Updates to Foundry v13 and CSB 5.0.2
--
   * Note: This version is less compatible with Foundry v12 or less, and CSB 4 or less.
 * Fixes Miracle and Fateweave modifiers always disabling explodes, even when the modifier is disabled
 * Adds ability to change spell and performance critical range
