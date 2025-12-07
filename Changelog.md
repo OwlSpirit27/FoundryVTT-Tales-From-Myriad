@@ -17,6 +17,7 @@
   * Modifiers that still rely on resources will still be tracked in Modifiers instead of the Active Effect displayers
 * Adds base modifiers (crit stunt, prone target, etc.) to template sheet
 * Converts Sky Passage and Burning Blood into active effects
+* Brings NPC sheets up to date with PC sheets, also adds modifier and active effects displayer
 
 ## v1.1.0
 * Overhauled and itemised modifiers, which double as resource trackers
