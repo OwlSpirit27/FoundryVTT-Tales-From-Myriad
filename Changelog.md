@@ -2,7 +2,7 @@
 ## v1.2.1
 * Fixes mistyped stats on Hunter
 * Fixes mistyped source on Hedgewitch's _Child of Ghal_
-* Itemises jobs, which can now be dragged into player character sheets
+* Itemises jobs and specialty classes, which can now be dragged into player character sheets
 * Adds full spell and performance list displayers
 * Itemises kindred
 * Removes custom HP in favour of active effects
