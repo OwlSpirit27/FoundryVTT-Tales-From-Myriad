@@ -6,6 +6,7 @@
 * Adds full spell and performance list displayers
 * Itemises kindred
 * Removes custom HP in favour of active effects
+* Adds all items displayer
 
 ## v1.2.0
 * Updates to Foundry v13 and CSB 5.0.2
