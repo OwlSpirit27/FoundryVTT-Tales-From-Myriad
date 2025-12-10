@@ -1,3 +1,8 @@
+
+## v1.2.1
+* Fixes mistyped stats on Hunter
+* Fixes mistyped source on Hedgewitch's _Child of Ghal_
+
 ## v1.2.0
 * Updates to Foundry v13 and CSB 5.0.2
   * Note: This version is less compatible with Foundry v12 or less, and CSB 4 or less.
