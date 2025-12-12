@@ -3,10 +3,13 @@
 * Fixes mistyped stats on Hunter
 * Fixes mistyped source on Hedgewitch's _Child of Ghal_
 * Itemises jobs and specialty classes, which can now be dragged into player character sheets
-* Adds full spell and performance list displayers
 * Itemises kindred
+* Reworked character creation document to support new job and kindred lists
+* Adds full spell and performance list displayers
 * Removes custom HP in favour of active effects
 * Adds all items displayer
+* Adds checkbox for enabling crit mod (in favour of active effects)
+* Improves sheet and roll message formatting
 
 ## v1.2.0
 * Updates to Foundry v13 and CSB 5.0.2
