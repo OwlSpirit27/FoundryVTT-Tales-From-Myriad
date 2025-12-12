@@ -1,7 +1,7 @@
 {
   "id": "everything-myriad",
   "title": "Tales From Myriad - Custom System Builder",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -49,7 +49,7 @@
     }
   ],
   "url": "https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad",
-  "download": "https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/releases/download/v1.2.0/everything-myriad.zip",
+  "download": "https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/releases/download/v1.2.1/everything-myriad.zip",
   "manifest": "https://raw.githubusercontent.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/refs/heads/main/module.json",
   "readme": "https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/blob/main/README.md",
   "changelog": "https://github.com/OwlSpirit27/FoundryVTT-Tales-From-Myriad/blob/main/Changelog.md",
