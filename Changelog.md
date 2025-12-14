@@ -1,3 +1,8 @@
+## v1.2.2
+### The Housekeeping Update
+* Adds new Calling abilities and rolltable
+* Adds Magical Goodies and other miscellaneous items
+* Adds Housekeeping errata for spells 
 
 ## v1.2.1
 * Fixes mistyped stats on Hunter
