@@ -7,6 +7,7 @@
 * Adds Housekeeping errata for spells and abilities
 * Fixes more typos
 * Adds new Housekeeping rolltables for exploration, camping, dungeon generation and NPC inspiration.
+* Scores automatically round up when multiplied
 
 ## v1.2.1
 * Fixes mistyped stats on Hunter
