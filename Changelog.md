@@ -8,6 +8,8 @@
 * Fixes more typos
 * Adds new Housekeeping rolltables for exploration, camping, dungeon generation and NPC inspiration.
 * Scores automatically round up when multiplied
+* HP values automatically round up when resting
+* Converts rest menu to CSB user input
 
 ## v1.2.1
 * Fixes mistyped stats on Hunter
