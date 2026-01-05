@@ -1,20 +1,11 @@
-2025/12/30-12:29:35.799 44b8 Recovering log #817
-2025/12/30-12:29:35.804 44b8 Delete type=0 #817
-2025/12/30-12:29:35.804 44b8 Delete type=3 #816
-2025/12/30-15:22:51.850 5e60 Level-0 table #821: started
-2025/12/30-15:22:52.046 5e60 Level-0 table #821: 4146034 bytes OK
-2025/12/30-15:22:52.049 5e60 Delete type=0 #819
-2025/12/30-15:24:02.007 5e60 Level-0 table #823: started
-2025/12/30-15:24:02.022 5e60 Level-0 table #823: 229 bytes OK
-2025/12/30-15:24:02.024 5e60 Delete type=0 #820
-2025/12/30-15:24:02.024 5e60 Manual compaction at level-0 from '!adventures!VrR40JlCFHYI4qvv' @ 72057594037927935 : 1 .. '!adventures!VrR40JlCFHYI4qvv' @ 0 : 0; will stop at (end)
-2025/12/30-15:24:02.024 5e60 Manual compaction at level-1 from '!adventures!VrR40JlCFHYI4qvv' @ 72057594037927935 : 1 .. '!adventures!VrR40JlCFHYI4qvv' @ 0 : 0; will stop at '!adventures!YduLNg2XZXhUtZy0' @ 62 : 0
-2025/12/30-15:24:02.024 5e60 Compacting 1@1 + 3@2 files
-2025/12/30-15:24:02.264 5e60 Generated table #824@1: 1 keys, 4146034 bytes
-2025/12/30-15:24:02.266 5e60 Compacted 1@1 + 3@2 files => 4146034 bytes
-2025/12/30-15:24:02.267 5e60 compacted to: files[ 0 2 3 0 0 0 0 ]
-2025/12/30-15:24:02.267 5e60 Delete type=2 #757
-2025/12/30-15:24:02.268 5e60 Delete type=2 #807
-2025/12/30-15:24:02.268 5e60 Delete type=2 #821
-2025/12/30-15:24:02.269 5e60 Delete type=2 #823
-2025/12/30-15:24:02.272 5e60 Manual compaction at level-1 from '!adventures!YduLNg2XZXhUtZy0' @ 62 : 0 .. '!adventures!VrR40JlCFHYI4qvv' @ 0 : 0; will stop at (end)
+2026/01/05-12:28:16.277 33b0 Recovering log #841
+2026/01/05-12:28:16.282 33b0 Delete type=0 #841
+2026/01/05-12:28:16.282 33b0 Delete type=3 #839
+2026/01/05-13:42:47.998 d6c Level-0 table #846: started
+2026/01/05-13:42:48.223 d6c Level-0 table #846: 4159919 bytes OK
+2026/01/05-13:42:48.227 d6c Delete type=0 #844
+2026/01/05-13:46:31.647 d6c Level-0 table #848: started
+2026/01/05-13:46:31.661 d6c Level-0 table #848: 202 bytes OK
+2026/01/05-13:46:31.662 d6c Delete type=0 #845
+2026/01/05-13:46:31.794 d6c Manual compaction at level-0 from '!adventures!uHlpxIqTrvZLFAr3' @ 72057594037927935 : 1 .. '!adventures!uHlpxIqTrvZLFAr3' @ 0 : 0; will stop at (end)
+2026/01/05-13:46:31.794 d6c Manual compaction at level-1 from '!adventures!uHlpxIqTrvZLFAr3' @ 72057594037927935 : 1 .. '!adventures!uHlpxIqTrvZLFAr3' @ 0 : 0; will stop at (end)
