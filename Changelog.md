@@ -1,3 +1,13 @@
+## v1.2.3
+* Fixes broken damage rolls on newly created character sheets
+* Fixes wrong rolltable formula on rolltables with new content
+* Better formats miscasts on spell check rolls
+* Updates spell checks not originating from spells
+* Updates character creation documents to account for callings, also allows players to display legacy job document
+* Updates Lucky boon on Boons document
+* Fixes rounding on bottommost HP displayer
+* Fixes broken equipment generator links
+
 ## v1.2.2
 ### The Housekeeping Update
 * Adds new Calling abilities and rolltable
